@@ -2,6 +2,12 @@
 
 Rental Platform aims to revolutionize the rental property market by integrating cryptocurrency payments into a secure, scalable platform that simplifies transactions for property owners and tenants.
 
+### Support a multi-currency crypto payment system.
+
+A secure crypto payment system that allows users to pay rent or make deposits using cryptocurrencies.
+
+![alt text](public/marketplace.png)
+
 ## Getting Started
 
 Follow these steps to set up the project:
